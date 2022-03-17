@@ -11,4 +11,4 @@
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
 </p>
 
-<img align=center src="https://synthira.ru/uploads/posts/2021-06/1622649172_maxresdefault.jpg" />
+<img style="width: 100px; height:100px;" align=center src="https://synthira.ru/uploads/posts/2021-06/1622649172_maxresdefault.jpg" />
