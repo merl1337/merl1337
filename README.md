@@ -1,3 +1,8 @@
-<h1>Welcome to my profile! </h1>
-<b>who i am?</b>
-<b>I am coder on html/php, c++, lua</b>
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>Hello! I'm merl1337, welcome to my profile</h1>
+  </body>
+  </html>
+  
