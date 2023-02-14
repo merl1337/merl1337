@@ -2,7 +2,7 @@
   <head>
   </head>
   <body>
-    <img src="https://cdn.lowgif.com/full/c0ada714b7573220-.gif">
+    <img src="https://media.discordapp.net/attachments/1041599699397914644/1074943779955539968/c0ada714b7573220-.gif?width=1079&height=564">
   </body>
   </html>
   
